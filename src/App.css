@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components{
+    .navHover{
+        @apply text-amber-300 transition duration-200 ease-in-out
+    }
+}
